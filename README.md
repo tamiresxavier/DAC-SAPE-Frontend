@@ -2,7 +2,7 @@
 
 Project of Enterprise Application Development - IFPB, Monteiro-PB, Brasil.
 
-Equipe Alpha: Ayanne Prata, Danilo Costa, keilla Vitória.
+Equipe Alpha: Ayanne Prata, Danilo Costa, Débora Cristiane, Keilla Vitória e Tamires Xavier.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
